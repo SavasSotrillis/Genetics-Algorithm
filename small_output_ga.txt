@@ -1,0 +1,10 @@
+The fitness values for all the brute force solutions are 2 
+[2, 7]Fitness Value 2
+[4, 7]Fitness Value 2
+[5, 7]Fitness Value 2
+
+The max fitness value for the ga solution is 1.5
+The set with the max fitness value for the ga solution is [0.7044040050704694, 0.41447828121054053, ]
+The min fitness value for the ga solution is 0.20000000000000015
+The average fitness value for the ga solution is 0.9656999999998506
+

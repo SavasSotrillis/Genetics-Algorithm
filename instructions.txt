@@ -1,0 +1,8 @@
+Running the code is fairly simple, just download the java files and input files. 
+When running the code, it will ask the location for the input files, just provide the correct location.
+It will then ask for the location and name of an output file to output the brute force solution. 
+After this is provided, it will ask for the location and name of output file for the random solution.
+After the random output location and name is provided, it will ask for the location and name of the output file for the ga solution.
+It will then respectfully print each solution to the respected text files.
+Each run can only run one input file at a time, so to run all three input sets, the code needs to run three times.
+When running the large input set, the code tends to take a few seconds to fully run.

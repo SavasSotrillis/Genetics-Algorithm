@@ -1,0 +1,4 @@
+All solutions for the hitting set of minimal length for this input are 
+[2, 3, 6]
+[2, 4, 7]
+[2, 5, 7]

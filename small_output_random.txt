@@ -1,0 +1,14 @@
+The fitness values for all the brute force solutions are 2 
+[2, 7]Fitness Value 2
+[4, 7]Fitness Value 2
+[5, 7]Fitness Value 2
+
+The max fitness value for the random solution is 1.5
+The set with the max fitness value for the random solution is 0.7368691259242713 0.22359415213073974 
+The min fitness value for the random solution is 0.20000000000000015
+The average fitness value for the random solution is 0.9283899999999641
+
+The max fitness value for the BBS solution is 1.75
+The set with the max fitness value for the BBS solution is 0.71 0.5 
+The min fitness value for the BBS solution is 0.4500000000000002
+The average fitness value for the BBS solution is 0.9896300000000063
